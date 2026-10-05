@@ -26,6 +26,13 @@ Mobile Network
 ↓  
 Customer
 
+## Project Files
+
+- [Architecture](./architecture.md)
+- [Sample API Request](./sample_request.json)
+- [Sample API Response](./sample_response.json)
+- [Sample Python SMS Client](./sample_sms_client.py)
+
 ## Skills Demonstrated
 
 - REST APIs
