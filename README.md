@@ -2,7 +2,7 @@
 
 A collection of sanitized case studies demonstrating practical work in systems integration, backend support, API troubleshooting, and enterprise application support.
 
-> **Important:** This portfolio contains only generalized, non-confidential examples created for professional demonstration. It does not include proprietary source code, credentials, customer information, internal IP addresses, private endpoints, production configuration, or sensitive company architecture.
+> This portfolio contains generalized, non-confidential examples created for professional demonstration. It does not include proprietary source code, credentials, customer information, internal IP addresses, private endpoints, production configuration, or sensitive company architecture.
 
 ## Case Studies
 
@@ -10,13 +10,26 @@ A collection of sanitized case studies demonstrating practical work in systems i
 
 ## Focus Areas
 
-- REST API integration
-- Backend and application support
-- Enterprise systems integration
-- Troubleshooting and incident analysis
-- Integration testing and validation
-- Operational support and service delivery
+- REST API Integration
+- Backend and Application Support
+- Enterprise Systems Integration
+- Troubleshooting and Incident Analysis
+- Integration Testing and Validation
+- Technical Documentation
 
-## About this portfolio
+## Current Portfolio
 
-The case studies focus on the engineering approach, business problem, integration flow, validation considerations, and lessons learned rather than exposing organization-specific implementation details.
+### Olive Tree Bulk SMS Integration
+
+A sanitized case study showing how a bulk SMS solution was integrated to support group-wide communication.
+
+The case study includes:
+
+- Integration overview
+- Architecture flow
+- Sample API request
+- Sample API response
+- Sample Python API client
+- Support and troubleshooting considerations
+
+[View the Olive Tree Bulk SMS case study](./olive-tree-bulk-sms/README.md)
